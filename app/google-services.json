@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927400108186",
+    "firebase_url": "https://firee-21153.firebaseio.com",
+    "project_id": "firee-21153",
+    "storage_bucket": "firee-21153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927400108186:android:f73f253484648f2c",
+        "android_client_info": {
+          "package_name": "com.example.firepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927400108186-c6edruthco3rlongftitt1jqmibr3gat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN4aMUp_XNJL7gZgDd2GaFdsZpJWpwroE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927400108186-c6edruthco3rlongftitt1jqmibr3gat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
